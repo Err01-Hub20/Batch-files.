@@ -54,7 +54,7 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
     <br><br>
      Made by Frank Syd 20 <br>
     <br><br>
-	 Now Enjoy Cat Mouth <br>
+	 Now Enjoy Cat Mouth HAHA<br>
 	<br><br>
     !!!No Escape!!! <br>
     <br><br><br> 
