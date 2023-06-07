@@ -56,7 +56,7 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
     <br><br>
     No Escape <br>
     <br><br><br>
-    <img id="imagen" alt="Candado" src="url("https://tse2.mm.bing.net/th?id=OIP.URVCbAexfcYxjGpEoGKpqQHaHa&pid=Api&P=0&h=180") >
+    <img id="imagen" alt="Candado" src="url("https://i.imgur.com/rytGPFG.png") >
 </div>
 </body>
 </html>
