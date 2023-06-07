@@ -54,10 +54,15 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
     <br><br>
      Made by Frank Syd 20 <br>
     <br><br>
+	 Now Enjoy Cat Mouth <br>
+	<br><br>
     !!!No Escape!!! <br>
-    <br><br>
-   Now Enjoy Cat Mouth <br>
-    <img id="imagen" alt="Candado" src="url("https://i.imgur.com/rytGPFG.png") >
+    <br><br><br> 
+    <img id="imagen" alt="Candado" src="url("https://i.imgur.com/rytGPFG.png" height="130" width="100") >
 </div>
 </body>
 </html>
+
+
+
+
