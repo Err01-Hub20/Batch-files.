@@ -48,13 +48,13 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
 <body scroll="no">
 </head>
     <font face="Lucida Console" size="4" color="white">
-<center><p> - CatWare Crypt - </p></center>
+<center><p> - BOBWare Crypt - </p></center>
 <div id="texto2">
     Oops, Your Files Have Been Encrypted!<br>
     <br><br>
      Made by Frank Syd 20 <br>
     <br><br>
-	 Now Enjoy Cat Mouth HAHA<br>
+	 Now Enjoy spongebob <br>
 	<br><br>
     !!!No Escape!!! <br>
     <br><br><br> 
@@ -62,27 +62,6 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
 </div>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
