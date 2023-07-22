@@ -2,7 +2,7 @@
 <!-- :: Batch Section
 @Echo OFF
 mode con:cols=50 lines=2
-set pass=SegoCode
+set pass=FrankSzd20
 
 Title FRAWARE
 
